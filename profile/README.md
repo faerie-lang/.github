@@ -1,12 +1,13 @@
-## Hi there 👋
+<div align='center'>
+  
+  ## 🧚 Faerie Programming Language
 
-<!--
+  In development
 
-**Here are some ideas to get you started:**
+  Compiled via [LLVM](https://llvm.org/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  Statically typed for type-correctness
+
+  An [array programming language](https://en.wikipedia.org/wiki/Array_programming)
+  
+</div>
